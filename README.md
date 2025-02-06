@@ -1,4 +1,4 @@
-# TreadmillBuyerProfile
+# Treadmill Buyer Profile
 It is my EDA portfolio project as a part of AI bootcamp by atomcamp and NUST.
 
 ## Project Details:
