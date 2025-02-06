@@ -13,12 +13,13 @@ Analyse the provided data and provide insights to the best of your abilities. In
 relevant tables/graphs/visualization to explain what you have learned about the data.
 You may structure your EDA/Business Analysis according to these steps:
 1. Data Exploration and Processing:
- Importing data
- Reading dataframe
- Check the shape of the dataframe
- Datatype of each column
- Missing value detection
- Checking duplicate values in the dataset
+
+* Importing data
+* Reading dataframe
+* Check the shape of the dataframe
+* Datatype of each column
+* Missing value detection
+* Checking duplicate values in the dataset
 
 2. Statistical Summary:
  Provide an analysis of the statistical summary in few lines for both categorical and
